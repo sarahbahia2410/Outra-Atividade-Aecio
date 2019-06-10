@@ -1,0 +1,7 @@
+c:\users\sarah\source\repos\Métodos Bnacários\Métodos Bnacários\bin\Debug\Métodos Bnacários.exe.config
+c:\users\sarah\source\repos\Métodos Bnacários\Métodos Bnacários\bin\Debug\Métodos Bnacários.exe
+c:\users\sarah\source\repos\Métodos Bnacários\Métodos Bnacários\bin\Debug\Métodos Bnacários.pdb
+c:\users\sarah\source\repos\Métodos Bnacários\Métodos Bnacários\obj\Debug\Métodos Bnacários.csprojAssemblyReference.cache
+c:\users\sarah\source\repos\Métodos Bnacários\Métodos Bnacários\obj\Debug\Métodos Bnacários.csproj.CoreCompileInputs.cache
+c:\users\sarah\source\repos\Métodos Bnacários\Métodos Bnacários\obj\Debug\Métodos Bnacários.exe
+c:\users\sarah\source\repos\Métodos Bnacários\Métodos Bnacários\obj\Debug\Métodos Bnacários.pdb
